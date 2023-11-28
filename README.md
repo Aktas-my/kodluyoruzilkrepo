@@ -1,6 +1,6 @@
 
 ## kodluyoruzilkrepo
-#Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
 ![github](kodluyoruzilkrepoprojet1/img/Ekran görüntü.png)
 ## Installation
